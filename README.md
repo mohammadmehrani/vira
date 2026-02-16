@@ -98,4 +98,3 @@ src/
   lib/
     utils.ts         # cn() utility for class merging
 ```
-fix merge

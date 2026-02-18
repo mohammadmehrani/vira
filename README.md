@@ -1,4 +1,4 @@
-# Vermitor - Portfolio Website Template
+# vermithor - Portfolio Website Template
 
 A modern, animated single-page portfolio template with a cinematic hero section featuring mouse-tracking image reveal, scroll-triggered animations, parallax effects, and a testimonial slider. Built with React, TypeScript, Tailwind CSS, and Vite.
 
